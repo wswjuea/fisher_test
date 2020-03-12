@@ -1,7 +1,7 @@
 import requests
 
 
-class HTTP:
+class HttpFisher:
     @staticmethod
     def get(url, return_json=True):
         """
